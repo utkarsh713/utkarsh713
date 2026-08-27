@@ -28,10 +28,3 @@ Hi, I’m Utkarsh Barnwal a BCA (Hons.) Computer Science student at **Galgotias 
     alt="Most Used Languages"
   />
 </p>
-## 👀 Profile Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=utkarsh713&label=Profile%20Views&color=00ff99&style=for-the-badge)
-
-
-  </a>
-</p>
