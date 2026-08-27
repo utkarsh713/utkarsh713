@@ -18,4 +18,12 @@ Hi, I’m Utkarsh Barnwal a BCA (Hons.) Computer Science student at **Galgotias 
 ---
 [![](https://komarev.com/ghpvc/?username=utkarsh713&icon=5&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📈 Contribution Activity
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=utkarsh713&theme=radical"
+    alt="GitHub Contribution Activity"
+    width="100%"
+  />
+</p>
