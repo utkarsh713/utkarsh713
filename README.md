@@ -31,8 +31,9 @@ Hi, I’m Utkarsh Barnwal a BCA (Hons.) Computer Science student at **Galgotias 
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsh713&theme=radical&hide_border=false&include_all_commits=true&count_private=false&langs_count=6"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=utkarsh713&theme=radical"
     alt="Most Used Languages"
+    width="500"
   />
 </p>
 ## 👀 Profile Views
@@ -50,8 +51,8 @@ Hi, I’m Utkarsh Barnwal a BCA (Hons.) Computer Science student at **Galgotias 
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=utkarsh713&theme=react-dark&hide_border=true"
-    alt="GitHub Contribution Activity Graph"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=utkarsh713&theme=radical"
+    alt="GitHub Contribution Activity"
     width="100%"
   />
 </p>
