@@ -30,13 +30,8 @@ Hi, I’m Utkarsh Barnwal a BCA (Hons.) Computer Science student at **Galgotias 
 ## 🌐 Most Used Languages
 
 <p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=utkarsh713&theme=radical"
-    alt="Most Used Languages"
-    width="500"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=utkarsh713&theme=radical" alt="Most Used Languages" width="500">
 </p>
----
 
 ## 👀 Profile Views
 
