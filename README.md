@@ -13,15 +13,11 @@ Hi, I’m Utkarsh Barnwal a BCA (Hons.) Computer Science student at **Galgotias 
 
 ![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=utkarsh713&theme=radical&hide_border=false&include_all_commits=true&layout=compact)
 
-### 🏆 Top Contributed Repositories
+## 🏆 GitHub Contributions
 
-![Top Contributed Repositories](https://github-contributor-stats.vercel.app/api?username=utkarsh713&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=utkarsh713&theme=radical)
 
 ## 👀 Profile Views
 
 ![Profile Views](https://komarev.com/ghpvc/?username=utkarsh713&label=Profile%20Views&color=00ff99&style=for-the-badge)
-
-## 📈 Contribution Activity
-
-![Utkarsh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=utkarsh713&theme=react-dark&hide_border=true)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
