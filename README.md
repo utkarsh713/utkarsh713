@@ -20,4 +20,3 @@ Hi, I’m Utkarsh Barnwal a BCA (Hons.) Computer Science student at **Galgotias 
 ## 📈 Contribution Activity
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=utkarsh713&theme=react-dark&hide_border=true)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
